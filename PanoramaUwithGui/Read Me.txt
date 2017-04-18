@@ -1,0 +1,1 @@
+Excute: Ui.py -> open file dialog -> select images from pc -> wait for second -> show image -> if image was very large, result image will save at D:/result.jpg, you can find it and see on windows
